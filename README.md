@@ -22,7 +22,7 @@ KhabarNama NewsApp is a mobile application developed for Android, designed to fe
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/NewsApp.git
+git clone https://github.com/PanigrahiAnkit/NewsApp.git
 
 2. Open the project in Android Studio:
 - Launch Android Studio.
