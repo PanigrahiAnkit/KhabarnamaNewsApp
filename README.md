@@ -54,11 +54,6 @@ Contributions are welcome and greatly appreciated. To contribute:
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-## Contact
-
-- Your Name - your.email@example.com
-- Project Link: https://github.com/yourusername/NewsApp
-
 ## Acknowledgements
 
 - [NewsAPI](https://newsapi.org/) for providing the news data.
